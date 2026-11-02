@@ -97,8 +97,7 @@ Create a folder named `models` if it does not already exist.
 Run this command:
 
 ```bash
-curl -L "https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task" -o models\hand_landmarker.task
-```
+curl -L "https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task" -o models\hand_landmarker.task```
 
 Make sure the model file is saved inside the `models` folder.
 
